@@ -13,6 +13,6 @@ LUMIER,Defensa,11,24,140,Lumier.png
 ARIEL,Balanceado,22,22,110,Ariel.png
 JACK,Balanceado,25,24,120,Jack.png
 ARROYO,Balanceado,23,21,115,Arroyo.png
-HEYHEY,Balanceado,26,23,130,Heyhey.png
+HEYHEY,Balanceado,100,23,130,Heyhey.png
 JUDIT,Balanceado,24,25,125,Judit.png
 BOLT,Balanceado,20,20,100,Bolt.png
